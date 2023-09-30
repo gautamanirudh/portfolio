@@ -20,7 +20,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: gautamanirudh.github.io/portfolio/
+url: https://gautamanirudh.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
