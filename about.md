@@ -39,11 +39,6 @@ I've had the privilege of interning at some of the most innovative companies. He
   - Tableau
   - RPCs
 
-## Achievements & Contributions 🏆
-- **MMVY Scholar**: 100% Scholarship from the state of Madhya Pradesh
-- **1st out of 60+ teams** in Webkriti – Annual Web Development Hackathon of IIIT Gwalior. [Link to project](#)
-- **2nd out of 150+ teams** in AASF’s ‐ Winter’s Project ML Track. [Link to project](#)
-- **Gold Medalist**: National Children Science Congress 2016, represented State Rajasthan
 
 ## Hobbies 📚
 When I'm not coding or diving into data, I enjoy exploring the world of finance and geopolitics. My interests in these fields drive me to read and research, fueling my curiosity and expanding my understanding of global dynamics. Whether it's analyzing market trends or studying the political landscape, my passion for learning keeps me engaged and inspired. Feel free to share your favorite finance or geopolitics book with me; I'm always looking for new insights!
