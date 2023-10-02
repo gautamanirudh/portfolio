@@ -11,6 +11,9 @@ category: blog
 author: anirudh
 ---
 
+<!-- ![Image](/assets/images/bagmane.jpeg) -->
+![Image](/assets/images/enterance.jpeg)
+
 This summer, I had the opportunity to intern at Google. In this blog, I'll share a recount of my experiences.  
 
 A heads-up: I won't be covering the interview process, so if that's what you're keen on, you might want to look elsewhere. With that said, let's delve into my Google journey.
@@ -33,12 +36,16 @@ Well, the universe decided I needed a crash course in patience. A 9-month-long w
 
 I went in with some fairly high expectations, built on hours of binge-watching “Day in a life of a Google engineer” videos. But Google exceeded all of them in reality!
 
-![Food Image](/assets/images/food.png)
-
 Google has four offices in Bangalore. I landed in Google’s RMZ office. Even though it's smaller in size, believe me, it makes a big impression! And, let's just say, the "Which is the best Google office?" debate among us interns is more heated than "tabs vs. spaces" among coders.  
+
+
+![Rmz Image](/assets/images/rmz.jpg)
+
+
 
 Though our work setup was hybrid, requiring only three days a week in the office and the rest from home, only few could resist the temptation to head into the office daily.  
 
+![Food Image](/assets/images/food.png)
 
 The "office" never truly felt like one. At first, I assumed this fresh vibe was because everything was new to us. But, interestingly, that buzz persisted, right up until my final intern day. It was an environment like no other!
 
@@ -108,7 +115,7 @@ For the three months I was there, Bangalore consistently surprised me. From its 
 
 From peaceful places like Cubbon Park and the ISKCON Temple to vibrant nightclubs, Bangalore has something for everyone.
 
-![Food Image](/assets/images/map.jpeg)
+![Map Image](/assets/images/map.jpeg)
 > Going on a PG hunt in Bangalore be like: Bookmarking the entire city!
 
 ## The Big Presentation
@@ -150,7 +157,7 @@ It took them a good 30 minutes to get comfortable in the environment. Perhaps it
 
 I gave them a tour, highlighting the office's cafe, meeting spaces, micro-kitchens, gaming zone, and more.
 
-![Food Image](/assets/images/first_visit.png)
+![Image](/assets/images/first_visit.png)
 
 
 As we concluded our exploration, the smiles on their faces seemed to capture more than just a day's experience. In their eyes, I saw a mix of pride and amusement.   
@@ -166,7 +173,7 @@ Reflecting on those 3 months, my growth wasn't just technical. But beyond that, 
 Thank you Google, the search team, and all the amazing Googlers I met.
 
 
-![Food Image](/assets/images/messages.png)
+![Image](/assets/images/messages.png)
 
 > The internship chapter closes, but these memories ensure it’s a story I’ll revisit often.  
 

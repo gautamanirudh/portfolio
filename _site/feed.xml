@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-02T21:03:52+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Anirudh Gautam</title><entry><title type="html">My Summer Internship with Google: The Good, The Googly, and The Unforgettable!</title><link href="http://localhost:4000/google-intern/" rel="alternate" type="text/html" title="My Summer Internship with Google: The Good, The Googly, and The Unforgettable!" /><published>2023-10-02T00:00:00+05:30</published><updated>2023-10-02T00:00:00+05:30</updated><id>http://localhost:4000/google-intern</id><content type="html" xml:base="http://localhost:4000/google-intern/">&lt;p&gt;This summer, I had the opportunity to intern at Google. In this blog, I’ll share a recount of my experiences.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-02T22:51:34+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Anirudh Gautam</title><entry><title type="html">My Summer Internship with Google: The Good, The Googly, and The Unforgettable!</title><link href="http://localhost:4000/google-internship/" rel="alternate" type="text/html" title="My Summer Internship with Google: The Good, The Googly, and The Unforgettable!" /><published>2023-10-02T00:00:00+05:30</published><updated>2023-10-02T00:00:00+05:30</updated><id>http://localhost:4000/google-internship</id><content type="html" xml:base="http://localhost:4000/google-internship/">&lt;!-- ![Image](/assets/images/bagmane.jpeg) --&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/enterance.jpeg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This summer, I had the opportunity to intern at Google. In this blog, I’ll share a recount of my experiences.&lt;/p&gt;
 
 &lt;p&gt;A heads-up: I won’t be covering the interview process, so if that’s what you’re keen on, you might want to look elsewhere. With that said, let’s delve into my Google journey.&lt;/p&gt;
 
@@ -17,11 +20,13 @@ A week had passed since my interviews, and I was gearing up to nudge my recruite
 
 &lt;p&gt;I went in with some fairly high expectations, built on hours of binge-watching “Day in a life of a Google engineer” videos. But Google exceeded all of them in reality!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/food.png&quot; alt=&quot;Food Image&quot; /&gt;&lt;/p&gt;
-
 &lt;p&gt;Google has four offices in Bangalore. I landed in Google’s RMZ office. Even though it’s smaller in size, believe me, it makes a big impression! And, let’s just say, the “Which is the best Google office?” debate among us interns is more heated than “tabs vs. spaces” among coders.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/images/rmz.jpg&quot; alt=&quot;Rmz Image&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Though our work setup was hybrid, requiring only three days a week in the office and the rest from home, only few could resist the temptation to head into the office daily.  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/food.png&quot; alt=&quot;Food Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The “office” never truly felt like one. At first, I assumed this fresh vibe was because everything was new to us. But, interestingly, that buzz persisted, right up until my final intern day. It was an environment like no other!&lt;/p&gt;
 
@@ -84,7 +89,7 @@ We passed the remaining ones to the Talent Engagement team, and voilà! Here’s
 
 &lt;p&gt;From peaceful places like Cubbon Park and the ISKCON Temple to vibrant nightclubs, Bangalore has something for everyone.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/map.jpeg&quot; alt=&quot;Food Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/map.jpeg&quot; alt=&quot;Map Image&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Going on a PG hunt in Bangalore be like: Bookmarking the entire city!&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -122,7 +127,7 @@ We passed the remaining ones to the Talent Engagement team, and voilà! Here’s
 
 &lt;p&gt;I gave them a tour, highlighting the office’s cafe, meeting spaces, micro-kitchens, gaming zone, and more.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/first_visit.png&quot; alt=&quot;Food Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/first_visit.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As we concluded our exploration, the smiles on their faces seemed to capture more than just a day’s experience. In their eyes, I saw a mix of pride and amusement.&lt;/p&gt;
 
@@ -135,7 +140,7 @@ We passed the remaining ones to the Talent Engagement team, and voilà! Here’s
 &lt;p&gt;Reflecting on those 3 months, my growth wasn’t just technical. But beyond that, my journey was filled with fun. The people I met, from supportive teammates to incredible friends, ensured that my time there was never mundane.
 Thank you Google, the search team, and all the amazing Googlers I met.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/messages.png&quot; alt=&quot;Food Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/messages.png&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The internship chapter closes, but these memories ensure it’s a story I’ll revisit often.&lt;/p&gt;
@@ -147,4 +152,4 @@ Thank you Google, the search team, and all the amazing Googlers I met.&lt;/p&gt;
 
 &lt;p&gt;If you’ve made it this far, thank you for sticking around! I hope you had a worthy time reading my experience.&lt;/p&gt;
 
-&lt;p&gt;Until next time, Anirudh.&lt;/p&gt;</content><author><name>anirudh</name></author><category term="blog" /><category term="Internship" /><summary type="html">This summer, I had the opportunity to intern at Google. In this blog, I’ll share a recount of my experiences.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/anirudh.png" /><media:content medium="image" url="http://localhost:4000/assets/images/anirudh.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Until next time, Anirudh.&lt;/p&gt;</content><author><name>anirudh</name></author><category term="blog" /><category term="Internship" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/anirudh.png" /><media:content medium="image" url="http://localhost:4000/assets/images/anirudh.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
