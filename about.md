@@ -13,7 +13,7 @@ I've had the privilege of interning at some of the most innovative companies. He
 
 ### Google (Software Engineering Intern, May 2023 - Aug 2023)
 - **Project**: I worked with the Serving Infra deployment team, part of Google Search. My project involved improving the visibility of developers into the release process of critical servers of Google search.
-- **Skills**: Python, Soy(Closure templates), RPCs, Protocol Buffers, HTML, CSS, JS
+- **Skills**: Python, Soy(Closure templates), RPCs, Protocol Buffers
 
 ### Home.LLC (Data Science Intern, Dec 2021 - Mar 2022)
 - **Project**: During this internship, I delved into the analysis of data that directly and indirectly impacts housing prices. I explored neighborhood and state-level datasets, modeled these, and presented my findings to the quants team responsible for making investment decisions.
