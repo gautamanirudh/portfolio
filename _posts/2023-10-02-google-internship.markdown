@@ -9,9 +9,11 @@ tag:
 star: true
 category: blog
 author: anirudh
+hitsTag: <img alt="Hits" src="https://hits.sh/anirudhgautam.com/google-internship.svg?style=flat-square&label=Views&extraCount=1000&color=e05d44"/>
 ---
 
-<!-- ![Image](/assets/images/bagmane.jpeg) -->
+
+
 ![Image](/assets/images/enterance.jpeg)
 
 This summer, I had the opportunity to intern at Google. In this blog, I'll share a recount of my experiences.  
