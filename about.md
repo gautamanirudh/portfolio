@@ -20,24 +20,10 @@ I've had the privilege of interning at some of the most innovative companies. He
 - **Skills**: Python, Pandas, Numpy, Sklearn, Tableau
 
 ## Skills
-- **Programming Languages**
-  - C++
-  - Python
-- **Frameworks/Technologies**
-  - FastAPI
-  - Docker
-  - MongoDB
-  - Git
-  - Pandas
-  - NumPy
-  - Scikit-Learn
-  - Flask
-  - PostgreSQL
-  - Plotly
-  - Dash
-  - Streamlit
-  - Tableau
-  - RPCs
+
+- Programming Languages: C++, Python
+- Frameworks/Technologies: FastAPI, Docker, MongoDB, Git, Pandas, NumPy, Scikit-Learn, Flask, PostgreSQL, Plotly, Dash, Streamlit, Tableau, RPCs
+
 
 
 ## Hobbies 📚
