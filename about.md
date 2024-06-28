@@ -3,32 +3,11 @@ title: About
 layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
-# Hello, I'm Anirudh Gautam 👋
+# Hey there, I'm Anirudh 👋
 
-I'm a final year student at **IIIT Gwalior**, expected to graduate with an Integrated Dual Degree in 2024.
+Welcome to my digital nook. I'm a software engineer. And here, I share what I've been working on recently and things I learned along the way.
 
-## My Professional Journey 🚀
+I'm currently working as SWE @ Google, checkout out my professional experience on [LinkedIn](https://www.linkedin.com/in/anirudhgautam/)
+    
+Feel free to poke around. If you find something interesting, or want to chat about tech, finance, or really anything, say [hello@anirudhgautam.com](mailto:hello@anirudhgautam.com)
 
-I've had the privilege of interning at some of the most innovative companies. Here's a glimpse of my professional journey:
-
-### Google (Software Engineering Intern, May 2023 - Aug 2023)
-- **Project**: I worked with the Serving Infra deployment team, part of Google Search. My project involved improving the visibility of developers into the release process of critical servers of Google search.
-- **Skills**: Python, Soy(Closure templates), RPCs, Protocol Buffers
-
-### Home.LLC (Data Science Intern, Dec 2021 - Mar 2022)
-- **Project**: During this internship, I delved into the analysis of data that directly and indirectly impacts housing prices. I explored neighborhood and state-level datasets, modeled these, and presented my findings to the quants team responsible for making investment decisions.
-- **Skills**: Python, Pandas, Numpy, Sklearn, Tableau
-
-## Skills
-
-- Programming Languages: C++, Python
-- Frameworks/Technologies: FastAPI, Docker, MongoDB, Git, Pandas, NumPy, Scikit-Learn, Flask, PostgreSQL, Plotly, Dash, Streamlit, Tableau, RPCs
-
-
-
-## Hobbies 📚
-When I'm not coding or diving into data, I enjoy exploring the world of finance and geopolitics. My interests in these fields drive me to read and research, fueling my curiosity and expanding my understanding of global dynamics. Whether it's analyzing market trends or studying the political landscape, my passion for learning keeps me engaged and inspired. Feel free to share your favorite finance or geopolitics book with me; I'm always looking for new insights!
-
-## Let's Connect! 🌐
-Feel free to reach out to me on [LinkedIn](#). You can also drop me an email at [anirudh1102gautam@gmail.com](mailto:anirudh1102gautam@gmail.com) 
-or call me at +91-7310993234.
