@@ -9,7 +9,6 @@ tag:
 star: true
 category: blog
 author: anirudh
-# hitsTag: <img alt="Hits" src="https://hits.sh/anirudhgautam.com/google-internship.svg?style=flat-square&label=Views&extraCount=1000&color=e05d44"/>
 ---
 
 <figure style="text-align:center">
